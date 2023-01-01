@@ -20,3 +20,4 @@ create_tables.py file connects to the cursor, drop and create tables.
 etl.ipython file reads and processes a single file from the datasets and contain instructions on the ETL process.
 etl.py file reads and processes all the files from the datasets, and create the final table.
 sql_queries.py contains all the sql queries used in the project.
+
