@@ -21,3 +21,4 @@ etl.ipython file reads and processes a single file from the datasets and contain
 etl.py file reads and processes all the files from the datasets, and create the final table.
 sql_queries.py contains all the sql queries used in the project.
 
+![alt text](https://github.com/gyjbb/Data-Engineer-Project1/songplay_table.png?raw=true)
