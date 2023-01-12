@@ -1,5 +1,5 @@
 # Data-Engineer-Project1
-Normalized database design through Star Schema
+Normalized relational database design through Star Schema \
 Sparkify song datasets ETL
 
 ### Project Objective
